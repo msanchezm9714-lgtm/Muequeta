@@ -8,5 +8,5 @@ Sitio estático. Cada página (`index.html`, `servicios.html`, `equipo.html`, `c
 - `og.jpg` (imagen que se ve al compartir el enlace)
 
 ## Antes de publicar
-1. Reemplazar `https://TU-DOMINIO.com` por el dominio real en las 4 páginas (etiquetas `og:url`, `og:image` y `twitter:image`).
+1. Si cambias de dominio (hoy `https://muequeta.vercel.app`), reemplázalo en las 4 páginas (etiquetas `og:url`, `og:image` y `twitter:image`).
 2. Para que Google indexe el sitio, borrar la línea `<meta name="robots" content="noindex,nofollow">` de las 4 páginas.
